@@ -4,7 +4,7 @@ import { GameState, Upgrade } from '../types';
 import { upgrades as upgradeDefinitions } from '../utils/upgrades';
 
 // Audio setup
-const clickSound = new Audio('/assets/sounds/click.mp3');
+const clickSound = new Audio('/assets/sounds/click.m4a');
 clickSound.loop = true;
 let stopSoundTimeout: number | null = null;
 
