@@ -7,7 +7,7 @@ const Cat = () => {
     incrementClicks();
   };
 
-  const catImage = isSpinning ? "/assets/gifs/spin-loop.gif" : "/assets/gifs/cat.gif";
+  const catImage = isSpinning ? "/cat-clicker-game/assets/gifs/spin-loop.gif" : "/cat-clicker-game/assets/gifs/cat.gif";
 
   return (
     <div className="flex justify-center my-8">
