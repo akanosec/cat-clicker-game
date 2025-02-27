@@ -34,7 +34,7 @@ const Header = () => {
   return (
     <header className="mb-8">
       <h1 className="text-3xl font-bold text-center mb-6 text-purple-200">
-        Cat Premium Enhancements Shop
+        OIIAIOOOOOIAI
       </h1>
       <div className="grid grid-cols-6 gap-4 max-w-4xl mx-auto">
         <div className="flex flex-col items-center">
